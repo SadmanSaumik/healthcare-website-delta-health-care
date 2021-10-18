@@ -1,0 +1,9 @@
+.banner-wrapper {
+  height: 100vh;
+  background-image: url("https://i.ibb.co/VYtR8Sy/doctor-at-hospital-R69-SC2-W.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}

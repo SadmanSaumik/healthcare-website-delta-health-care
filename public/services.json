@@ -1,0 +1,38 @@
+[
+  {
+    "service": "Sample Collection",
+    "id": 1,
+    "description": "Home Sample Collection Service in Dhaka City (COVID & Non-COVID)Our objective is to deliver high quality special healthcare service to our patients who are unable to come to the hospital to give blood/urine/stool samples for treatment or routine health checkup purpose.Gulshan, Niketon, Banani, Banani DOHS, Baridhara, Baridhara DOHS, Bashundhara, Badda, Mohakhali, Cantonment, Uttara, Abdullahpur, Dhanmondi, Lalmatia, Mohammadpur, Farmgate, Pallabi, Mirpur, Kafrul, Tejgaon, Maghbazar, Banasree, Rampura, Malibagh, Kakrail, Ramna, Arambagh, Motijheel, Khilgaon and ShobujbaghOur trained & skilled phlebotomists are collecting samples from your location.Patient satisfaction is our priority.For COVID/Non-COVID sample collection 10666 or 02 22 22 62 466",
+    "pic": "https://cdn.pixabay.com/photo/2021/08/25/20/27/blood-collection-6574436_960_720.jpg"
+  },
+  {
+    "service": "Kidney & Dialysis Centre",
+    "id": 2,
+    "description": "With the aim “Little kidney, we care” SHL Children Kidney and Dialysis Centre offers comprehensive care for children with kidney disease and urinary tract problems. The renal team provides diagnostic and treatment service for children with disease affecting kidney including ultrasonography guided real time kidney biopsy, central venous dialysis catheter placement. The centre also provides renal replacement therapy in the form of hemodialysis and peritoneal dialysis. The Delta Children Kidney and Dialysis Centre comprise a 3-beded hemodialysis unit specially designed for children, pediatric ward and full time outpatient clinic (OPD).",
+    "pic": "https://cdn.pixabay.com/photo/2016/04/19/13/22/hospital-1338585_960_720.jpg"
+  },
+  {
+    "service": "ENT & Head Neck Surgery Centre",
+    "id": 3,
+    "description": "ENT & Head Neck Surgery centre at Delta Hospital provides diagnosis and treatment of all diseases, disorders and conditions related to the ears, nose, throat and head neck region. Our team of highly trained experts exemplifies the exceptional care for which our hospital is internationally renowned. All doctors are fully capable of using the latest medical technologies and contributing with years of professional experience. Through the expertise and the use of cutting edge medical equipments, we can effectively diagnose and treat a wide array of problems, including hearing disorders, speech impairments, snoring, tumors, cancer and congenital diseases. With the help our skilled physicians and the latest technology, we can surely make a difference.",
+    "pic": "https://www.Deltahospital.com/storage/images/1580970512.jpg"
+  },
+  {
+    "service": "Fertility Centre",
+    "id": 4,
+    "description": "Delta fertility Centre (SFC) aims to offer a comprehensive range of fertility treatment and special expertise to assist couples in the best possible way. Our center is specially designed by experienced specialist with latest technology. Our Centre has an experienced team of doctors, nurses, embryologist and technicians trained in Singapore and India. We fully understand the needs of individual couples facing fertility treatment and seek to respond in a professional and supportive manner. We offer the latest and proven scientific and medical skills currently available within this field. We fully appreciate the stresses and anxieties associated with fertility treatment and offer easy access for couples undergoing treatment to provide information, understanding and emotional support when most needed. Our services range from simple fertility, investigation to highly sophisticated treatment.",
+    "pic": "https://www.Deltahospital.com/storage/images/1531216532.jpg"
+  },
+  {
+    "service": "Intensive Care Centre",
+    "id": 5,
+    "description": "The ICU is concerned with the provision of life support or organ support system in patient who critically ill and who usually require intensive monitoring in a highly vigilant environment. The general ICU, located on the 4th floor, has 20 beds which include two isolation rooms. We are capable of providing dialysis service to critically ill patients inside ICU. Six channel bedside monitors, ultra sophisticated ventilators, defibrillators as well as 16 channel central monitoring system with continuous recording capabilities are in place for all patients. In addition the patients are being cared by team of highly efficient healthcare professionals. One dedicated nurse to one and three tiers of experienced ICU physicians (Intensivists) ensure round the clock adequate and continuous care of each and every patients.",
+    "pic": "https://cdn.pixabay.com/photo/2016/11/06/10/35/hospital-1802679_960_720.jpg"
+  },
+  {
+    "service": "Radiology & Imaging Centre",
+    "id": 6,
+    "description": "Delta Radiology Centre is fully equipped with a comprehensive Modern Radiology and Digital Imaging facilities. State of the art Diagnostic Radiological equipment and its applications provide the best images that help to ensure proper diagnosis. The state of art Somatom Force (Dual Source Dual Energy) CT Scan machine 1st time in Bangladesh with that single beat CT Coronary Angiogram, sub second images for children is possible without sedation, early tumor detection and stone characterization all are possible. 3 Tesla Skyra MRI machine having wide bore with short tunnel reduces claustrophobia & can perform 3D MRCP, fMRI, DTI, 3D MR Mammography with digital subtraction and whole body oncology screening within shorter time. Digital Mammography with Tomosynthesis machine, early breast cancer detection is possible even in precancerous stage diagnosis.",
+    "pic": "https://cdn.pixabay.com/photo/2017/10/03/20/01/mri-2813899_960_720.jpg"
+  }
+]
