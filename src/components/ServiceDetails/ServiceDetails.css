@@ -1,0 +1,12 @@
+.details-wrapper {
+  padding: 120px 0;
+  background-image: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.8) 0%,
+      rgba(255, 255, 255, 0.8) 100%
+    ),
+    url("https://i.ibb.co/82RNTPF/doctor-gbb086fa60-1920.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

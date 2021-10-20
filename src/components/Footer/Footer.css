@@ -1,0 +1,23 @@
+.footer-main {
+  background: black;
+}
+.footer-wrapper {
+  padding: 30px 15px;
+  color: white;
+}
+.social-wrapper {
+  text-align: right;
+}
+.social {
+  margin: 0 10px;
+}
+
+@media only screen and (max-width: 767px) {
+  .footer-wrapper {
+    text-align: center;
+    padding: 20px 15px;
+  }
+  .social-wrapper {
+    text-align: center;
+  }
+}
